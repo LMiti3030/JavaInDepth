@@ -1,0 +1,5 @@
+1000;user0@mititelulaura.com;test;John;M;m; user
+1001;user1@mititelulaura.com;test;Sam;M;m;user
+1002;user2@mititelulaura.com;test;Anita;M;m;editor
+1003;user3@mititelulaura.com;test;Sara;M;f;editor
+1004;user4@mititelulaura.com;test;Laura;M;f;chiefeditor

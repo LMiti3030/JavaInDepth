@@ -1,0 +1,5 @@
+# Project exclude paths
+/s12thrillio/target/
+/s13JVMinternals/target/
+/s14Exceptions/target/
+/s15IO/target/
